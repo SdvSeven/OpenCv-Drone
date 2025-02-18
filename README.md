@@ -1,6 +1,6 @@
 # Programming the Clever drone using the OpenCV framework (in English)
 
-[Russian version]([https://ru.coex.tech](https://github.com/SdvSeven/OpenCv-Drone/blob/main/README_RU.md))
+[Russian version](https://github.com/SdvSeven/OpenCv-Drone/blob/main/README_RU.md)
 
 Here you will find drone programming [Clever](https://clover.coex.tech/ru/?ysclid=m7b2sc8duv122090430](https://clover.coex.tech/ru/)) from [COEX](https://ru.coex.tech) in Python. 
 
