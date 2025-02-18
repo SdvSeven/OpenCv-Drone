@@ -1,6 +1,6 @@
 # Программирование дрона Clever с помощью фраймворка OpenCV (на русском)
 
-[English version](https://github.com/SdvSeven/OpenCv-Drone/edit/main/README.md)
+[English version](https://github.com/SdvSeven/OpenCv-Drone/blob/main/README.md)
 
 Здесь вы найдете программирование дронов [Clever](https://clover.coex.tech/ru/?ysclid=m7b2sc8duv122090430](https://clover.coex.tech/ru/)) от [COEX](https://ru.coex.tech) на языке Python. 
 
