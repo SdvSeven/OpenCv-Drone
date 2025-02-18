@@ -7,7 +7,7 @@ Here you will find drone programming [Clever](https://clover.coex.tech/ru/?yscli
 In the same repository, I will describe in detail the work of some programs.
 
 ## We will analyze such elements as: 
-- **Object color recognition** in the Gazebo simulator and in real life (coordinate definitions, object type, object center coordinates, object contour and mask, object selection, recording all data in a txt file.)
+- **Object color recognition** in the Gazeba simulator and in real life (coordinate definitions, object type, object center coordinates, object contour and mask, object selection, recording all data in a txt file.)
 - Landing on a moving platform (Aruco tag)
 
 ## Recognition colored objects 
