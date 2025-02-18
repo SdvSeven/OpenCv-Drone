@@ -12,8 +12,8 @@ In the same repository, I will describe in detail the work of some programs.
 
 ## Recognition colored objects 
 
-The path to the project : 
+The path to the project : the copyright holder has restricted the view of the repository
 
 ## Landing a drone on a moving platform (Aruco tag)
 
-The path to the project :
+The path to the project : the copyright holder has restricted the view of the repository
